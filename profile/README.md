@@ -1,4 +1,6 @@
-## ... it'll be a repositiory to accompany a novel ... The PrairieNative
+## The PrairieNative
+
+*A novel currently being written ...*
 
 It will be something like Walden, except not intentionally autobiographical [although all novels are perhaps autobiographical]  ... or maybe it's more akin to Dostoevky's story of a simpleton or common man who's just a bit different in [The Idiot](https://www.gutenberg.org/files/2638/2638-h/2638-h.htm) ... but it is probably more about a quixotic attempt to be something like [John Galt](https://www.whoisjohngalt.com/) in Ayn's Rand's Atlas Shrugged.
 
